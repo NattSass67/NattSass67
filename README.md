@@ -1,6 +1,6 @@
-# Hi, I'm a Web Developer 👋
+# Hi, I'm Nattanun Sasakun👋
 
-Web Developer with nearly 2 years of experience building responsive, user-friendly web apps. Strong in JavaScript/TypeScript, React, and Node.js, with a focus on clean UI, performance, and maintainable code. Known for shipping features fast and improving UX through smart component design and API integration.
+Web Developer building responsive, user-friendly web apps. Strong in JavaScript/TypeScript, React, and Node.js, with a focus on clean UI, performance, and maintainable code. Known for shipping features fast and improving UX through smart component design and API integration.
 
 ## 🧰 Skills
 
