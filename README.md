@@ -8,13 +8,6 @@ Web Developer building responsive, user-friendly web apps. Strong in JavaScript/
 **Backend:** Node.js, Go (Golang), REST APIs, PostgreSQL, MySQL, MongoDB, Redis  
 **Tooling:** Git, Docker, Postman, Swagger/OpenAPI
 
-## 📌 What I do
-- Build modern, responsive interfaces with a strong focus on UX and accessibility  
-- Develop clean, scalable APIs and integrate them into frontends smoothly  
-- Improve performance and maintainability through reusable component design  
-- Ship features quickly while keeping code quality high
 
 ## 📫 Let’s connect
-- GitHub: _your link here_
-- LinkedIn: _your link here_
-- Email: _your email here_
+- Email: nattanun.sk@gmail.com
